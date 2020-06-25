@@ -1,1 +1,1 @@
-# Foody_Mock_Project_1
+# Interior_Design_Project_1
